@@ -1,1 +1,1 @@
-# AI-Assitant-jack
+# AI-Assistant-jack
